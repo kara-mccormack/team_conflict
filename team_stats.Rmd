@@ -1,5 +1,5 @@
 ---
-title: "Team peanut butter chocolate for everyone"
+title: "Chocolate for Everyone"
 output: html_notebook
 ---
 
