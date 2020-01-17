@@ -1,0 +1,1 @@
+Will our group crack under conflict?
