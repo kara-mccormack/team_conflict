@@ -1,9 +1,8 @@
 ---
-title: "R Notebook"
+title: "Chocolate for Everyone"
 output: html_notebook
 ---
-Chocolate for everyone two times!!
-
+what is your favorite choloclate 
 ```{r}
 plot(rnorm(10),rnorm(10))
 ```
